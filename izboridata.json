@@ -4,7 +4,7 @@
             "mayorCandidates": [{
                 "name": "Zijad Lugavić",
                 "votes": 0,
-                "winner": false
+                "winner": true
             }, {
                 "name": "Zoran Blagojević",
                 "votes": 0,
