@@ -3,8 +3,8 @@
             "currentVoters": 0,
             "mayorCandidates": [{
                 "name": "Zijad Lugavić",
-                "votes": 2,
-                "winner": true
+                "votes": 0,
+                "winner": false
             }, {
                 "name": "Zoran Blagojević",
                 "votes": 0,
@@ -57,7 +57,7 @@
                 }, {
                     "name": "SAMRA ĆORHODŽIĆ",
                     "listNumber": 19,
-                    "votes": 16,
+                    "votes": 0,
                     "winner": false
                 }, {
                     "name": "MAIDA MEHMEDOVIĆ",
