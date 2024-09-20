@@ -1,0 +1,224 @@
+{
+            "maxVoters": 105000,
+            "currentVoters": 0,
+            "mayorCandidates": [{
+                "name": "Zijad Lugavić",
+                "votes": 0,
+                "winner": false
+            }, {
+                "name": "Zoran Blagojević",
+                "votes": 0,
+                "winner": false
+            }, {
+                "name": "Derviš Čičko",
+                "votes": 0,
+                "winner": false
+            }, {
+                "name": "Tihomir Mihajlović",
+                "votes": 0,
+                "winner": false
+            }],
+            "councilParties": [{
+                "name": "SDA – STRANKA DEMOKRATSKE AKCIJE",
+                "color": "#00A86B",
+                "candidates": [{
+                    "name": "AZRA FEUKIĆ",
+                    "listNumber": 4,
+                    "votes": 0,
+                    "winner": false
+                }, {
+                    "name": "ĆAZIM MUŠANOVIĆ",
+                    "listNumber": 7,
+                    "votes": 0,
+                    "winner": false
+                }]
+            }, {
+                "name": "SDP – SOCIJALDEMOKRATSKA PARTIJA BOSNE I HERCEGOVINE",
+                "color": "#FF0000",
+                "candidates": [{
+                    "name": "MUHAREM MUSLIĆ",
+                    "listNumber": 20,
+                    "votes": 0,
+                    "winner": false
+                }]
+            }, {
+                "name": "TUZLANSKA ALTERNATIVA",
+                "color": "#FFA500",
+                "candidates": [{
+                    "name": "MENSUR ALIĆ",
+                    "listNumber": 1,
+                    "votes": 0,
+                    "winner": false
+                }, {
+                    "name": "JASMINA MUSTAČEVIĆ",
+                    "listNumber": 8,
+                    "votes": 0,
+                    "winner": false
+                }, {
+                    "name": "SAMRA ĆORHODŽIĆ",
+                    "listNumber": 19,
+                    "votes": 0,
+                    "winner": false
+                }, {
+                    "name": "MAIDA MEHMEDOVIĆ",
+                    "listNumber": 32,
+                    "votes": 0,
+                    "winner": false
+                }, {
+                    "name": "MERISA KUŠLJUGIĆ",
+                    "listNumber": 35,
+                    "votes": 0,
+                    "winner": false
+                }]
+            }, {
+                "name": "NEZAVISNA LISTA \"SLOBODA\"",
+                "color": "#1E90FF",
+                "candidates": [{
+                    "name": "HUSEJN KARIĆ",
+                    "listNumber": 29,
+                    "votes": 0,
+                    "winner": false
+                }]
+            }],
+            "gornjaTuzlaVoters": {
+                "maxVoters": 3200,
+                "currentVoters": 0
+            },
+            "gornjaTuzlaResults": [{
+                "name": "Zijad Lugavić",
+                "votes": {
+                    "050A032": 0,
+                    "050A033": 0,
+                    "050A034": 0,
+                    "050A035": 0,
+                    "050A036": 0
+                }
+            }, {
+                "name": "Zoran Blagojević",
+                "votes": {
+                    "050A032": 0,
+                    "050A033": 0,
+                    "050A034": 0,
+                    "050A035": 0,
+                    "050A036": 0
+                }
+            }, {
+                "name": "Derviš Čičko",
+                "votes": {
+                    "050A032": 0,
+                    "050A033": 0,
+                    "050A034": 0,
+                    "050A035": 0,
+                    "050A036": 0
+                }
+            }, {
+                "name": "Tihomir Mihajlović",
+                "votes": {
+                    "050A032": 0,
+                    "050A033": 0,
+                    "050A034": 0,
+                    "050A035": 0,
+                    "050A036": 0
+                }
+            }],
+            "gornjaTuzlaCouncilResults": [{
+                "name": "AZRA FEUKIĆ",
+                "party": "SDA – STRANKA DEMOKRATSKE AKCIJE",
+                "listNumber": 4,
+                "votes": {
+                    "050A032": 0,
+                    "050A033": 0,
+                    "050A034": 0,
+                    "050A035": 0,
+                    "050A036": 0
+                }
+            }, {
+                "name": "ĆAZIM MUŠANOVIĆ",
+                "party": "SDA – STRANKA DEMOKRATSKE AKCIJE",
+                "listNumber": 7,
+                "votes": {
+                    "050A032": 0,
+                    "050A033": 0,
+                    "050A034": 0,
+                    "050A035": 0,
+                    "050A036": 0
+                }
+            }, {
+                "name": "MUHAREM MUSLIĆ",
+                "party": "SDP – SOCIJALDEMOKRATSKA PARTIJA BOSNE I HERCEGOVINE",
+                "listNumber": 20,
+                "votes": {
+                    "050A032": 0,
+                    "050A033": 0,
+                    "050A034": 0,
+                    "050A035": 0,
+                    "050A036": 0
+                }
+            }, {
+                "name": "MENSUR ALIĆ",
+                "party": "TUZLANSKA ALTERNATIVA",
+                "listNumber": 1,
+                "votes": {
+                    "050A032": 0,
+                    "050A033": 0,
+                    "050A034": 0,
+                    "050A035": 0,
+                    "050A036": 0
+                }
+            }, {
+                "name": "JASMINA MUSTAČEVIĆ",
+                "party": "TUZLANSKA ALTERNATIVA",
+                "listNumber": 8,
+                "votes": {
+                    "050A032": 0,
+                    "050A033": 0,
+                    "050A034": 0,
+                    "050A035": 0,
+                    "050A036": 0
+                }
+            }, {
+                "name": "SAMRA ĆORHODŽIĆ",
+                "party": "TUZLANSKA ALTERNATIVA",
+                "listNumber": 19,
+                "votes": {
+                    "050A032": 0,
+                    "050A033": 0,
+                    "050A034": 0,
+                    "050A035": 0,
+                    "050A036": 0
+                }
+            }, {
+                "name": "MAIDA MEHMEDOVIĆ",
+                "party": "TUZLANSKA ALTERNATIVA",
+                "listNumber": 32,
+                "votes": {
+                    "050A032": 0,
+                    "050A033": 0,
+                    "050A034": 0,
+                    "050A035": 0,
+                    "050A036": 0
+                }
+            }, {
+                "name": "MERISA KUŠLJUGIĆ",
+                "party": "TUZLANSKA ALTERNATIVA",
+                "listNumber": 35,
+                "votes": {
+                    "050A032": 0,
+                    "050A033": 0,
+                    "050A034": 0,
+                    "050A035": 0,
+                    "050A036": 0
+                }
+            }, {
+                "name": "HUSEJN KARIĆ",
+                "party": "NEZAVISNA LISTA \"SLOBODA\"",
+                "listNumber": 29,
+                "votes": {
+                    "050A032": 0,
+                    "050A033": 0,
+                    "050A034": 0,
+                    "050A035": 0,
+                    "050A036": 0
+                }
+            }]
+        }
