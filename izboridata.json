@@ -81,8 +81,8 @@
                 }]
             }],
             "gornjaTuzlaVoters": {
-                "maxVoters": 3200,
-                "currentVoters": 0
+                "maxVoters": 2200,
+                "currentVoters": 450
             },
             "gornjaTuzlaResults": [{
                 "name": "Zijad Lugavić",
