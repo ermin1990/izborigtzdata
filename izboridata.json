@@ -3,19 +3,19 @@
             "currentVoters": 35000,
             "mayorCandidates": [{
                 "name": "Zijad Lugavić",
-                "votes": 2057,
+                "votes": 7933,
                 "winner": false
             }, {
                 "name": "Zoran Blagojević",
-                "votes": 526,
+                "votes": 1856,
                 "winner": false
             }, {
                 "name": "Derviš Čičko",
-                "votes": 0,
+                "votes": 281,
                 "winner": false
             }, {
                 "name": "Tihomir Mihajlović",
-                "votes": 0,
+                "votes": 36,
                 "winner": false
             }],
             "councilParties": [{
