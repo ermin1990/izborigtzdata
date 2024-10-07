@@ -3,19 +3,19 @@
             "currentVoters": 44615,
             "mayorCandidates": [{
                 "name": "Zijad Lugavić",
-                "votes": 27445,
+                "votes": 29558,
                 "winner": true
             }, {
                 "name": "Zoran Blagojević",
-                "votes": 7109,
+                "votes": 7710,
                 "winner": false
             }, {
                 "name": "Derviš Čičko",
-                "votes": 1508,
+                "votes": 1583,
                 "winner": false
             }, {
                 "name": "Tihomir Mihajlović",
-                "votes": 206,
+                "votes": 231,
                 "winner": false
             }],
             "councilParties": [{
@@ -24,12 +24,12 @@
                 "candidates": [{
                     "name": "AZRA FEUKIĆ",
                     "listNumber": 4,
-                    "votes": 275,
+                    "votes": 357,
                     "winner": false
                 }, {
                     "name": "ĆAZIM MUŠANOVIĆ",
                     "listNumber": 7,
-                    "votes": 183,
+                    "votes": 301,
                     "winner": false
                 }]
             }, {
@@ -38,7 +38,7 @@
                 "candidates": [{
                     "name": "MUHAREM MUSLIĆ",
                     "listNumber": 20,
-                    "votes": 100,
+                    "votes": 140,
                     "winner": false
                 }]
             }, {
@@ -47,27 +47,27 @@
                 "candidates": [{
                     "name": "MENSUR ALIĆ",
                     "listNumber": 1,
-                    "votes": 679,
+                    "votes": 906,
                     "winner": false
                 }, {
                     "name": "JASMINA MUSTAČEVIĆ",
                     "listNumber": 8,
-                    "votes": 71,
+                    "votes": 85,
                     "winner": false
                 }, {
                     "name": "SAMRA ĆORHODŽIĆ",
                     "listNumber": 19,
-                    "votes": 40,
+                    "votes": 50,
                     "winner": false
                 }, {
                     "name": "MAIDA MEHMEDOVIĆ",
                     "listNumber": 32,
-                    "votes": 48,
+                    "votes": 61,
                     "winner": false
                 }, {
                     "name": "MERISA KUŠLJUGIĆ",
                     "listNumber": 35,
-                    "votes": 51,
+                    "votes": 64,
                     "winner": false
                 }]
             }, {
@@ -76,7 +76,7 @@
                 "candidates": [{
                     "name": "HUSEJN KARIĆ",
                     "listNumber": 29,
-                    "votes": 25,
+                    "votes": 33,
                     "winner": false
                 }]
             }],
