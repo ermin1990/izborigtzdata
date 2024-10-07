@@ -3,19 +3,19 @@
             "currentVoters": 44615,
             "mayorCandidates": [{
                 "name": "Zijad Lugavić",
-                "votes": 10964,
-                "winner": false
+                "votes": 27445,
+                "winner": true
             }, {
                 "name": "Zoran Blagojević",
-                "votes": 2663,
+                "votes": 7109,
                 "winner": false
             }, {
                 "name": "Derviš Čičko",
-                "votes": 281,
+                "votes": 1508,
                 "winner": false
             }, {
                 "name": "Tihomir Mihajlović",
-                "votes": 36,
+                "votes": 206,
                 "winner": false
             }],
             "councilParties": [{
@@ -88,32 +88,32 @@
                 "name": "Zijad Lugavić",
                 "votes": {
                     "050A032": 0,
-                    "050A033": 0,
-                    "050A034": 0,
+                    "050A033": 221,
+                    "050A034": 240,
                     "050A035": 250
                 }
             }, {
                 "name": "Zoran Blagojević",
                 "votes": {
                     "050A032": 0,
-                    "050A033": 0,
-                    "050A034": 0,
+                    "050A033": 48,
+                    "050A034": 85,
                     "050A035": 40
                 }
             }, {
                 "name": "Derviš Čičko",
                 "votes": {
                     "050A032": 0,
-                    "050A033": 0,
-                    "050A034": 0,
+                    "050A033": 4,
+                    "050A034": 20,
                     "050A035": 15
                 }
             }, {
                 "name": "Tihomir Mihajlović",
                 "votes": {
                     "050A032": 0,
-                    "050A033": 0,
-                    "050A034": 0,
+                    "050A033": 1,
+                    "050A034": 4,
                     "050A035": 1
                 }
             }],
