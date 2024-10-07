@@ -24,12 +24,12 @@
                 "candidates": [{
                     "name": "AZRA FEUKIĆ",
                     "listNumber": 4,
-                    "votes": 0,
+                    "votes": 275,
                     "winner": false
                 }, {
                     "name": "ĆAZIM MUŠANOVIĆ",
                     "listNumber": 7,
-                    "votes": 0,
+                    "votes": 183,
                     "winner": false
                 }]
             }, {
@@ -38,7 +38,7 @@
                 "candidates": [{
                     "name": "MUHAREM MUSLIĆ",
                     "listNumber": 20,
-                    "votes": 0,
+                    "votes": 100,
                     "winner": false
                 }]
             }, {
@@ -47,27 +47,27 @@
                 "candidates": [{
                     "name": "MENSUR ALIĆ",
                     "listNumber": 1,
-                    "votes": 0,
+                    "votes": 679,
                     "winner": false
                 }, {
                     "name": "JASMINA MUSTAČEVIĆ",
                     "listNumber": 8,
-                    "votes": 0,
+                    "votes": 71,
                     "winner": false
                 }, {
                     "name": "SAMRA ĆORHODŽIĆ",
                     "listNumber": 19,
-                    "votes": 0,
+                    "votes": 40,
                     "winner": false
                 }, {
                     "name": "MAIDA MEHMEDOVIĆ",
                     "listNumber": 32,
-                    "votes": 0,
+                    "votes": 48,
                     "winner": false
                 }, {
                     "name": "MERISA KUŠLJUGIĆ",
                     "listNumber": 35,
-                    "votes": 0,
+                    "votes": 51,
                     "winner": false
                 }]
             }, {
@@ -76,7 +76,7 @@
                 "candidates": [{
                     "name": "HUSEJN KARIĆ",
                     "listNumber": 29,
-                    "votes": 0,
+                    "votes": 25,
                     "winner": false
                 }]
             }],
@@ -123,8 +123,8 @@
                 "listNumber": 4,
                 "votes": {
                     "050A032": 0,
-                    "050A033": 0,
-                    "050A034": 0,
+                    "050A033": 69,
+                    "050A034": 62,
                     "050A035": 0
                 }
             }, {
@@ -133,8 +133,8 @@
                 "listNumber": 7,
                 "votes": {
                     "050A032": 0,
-                    "050A033": 0,
-                    "050A034": 0,
+                    "050A033": 30,
+                    "050A034": 54,
                     "050A035": 0
                 }
             }, {
@@ -143,8 +143,8 @@
                 "listNumber": 20,
                 "votes": {
                     "050A032": 0,
-                    "050A033": 0,
-                    "050A034": 0,
+                    "050A033": 22,
+                    "050A034": 41,
                     "050A035": 0
                 }
             }, {
@@ -153,8 +153,8 @@
                 "listNumber": 1,
                 "votes": {
                     "050A032": 0,
-                    "050A033": 0,
-                    "050A034": 0,
+                    "050A033": 99,
+                    "050A034": 90,
                     "050A035": 0
                 }
             }, {
@@ -163,8 +163,8 @@
                 "listNumber": 8,
                 "votes": {
                     "050A032": 0,
-                    "050A033": 0,
-                    "050A034": 0,
+                    "050A033": 34,
+                    "050A034": 15,
                     "050A035": 0
                 }
             }, {
@@ -173,8 +173,8 @@
                 "listNumber": 19,
                 "votes": {
                     "050A032": 0,
-                    "050A033": 0,
-                    "050A034": 0,
+                    "050A033": 11,
+                    "050A034": 9,
                     "050A035": 0
                 }
             }, {
@@ -183,8 +183,8 @@
                 "listNumber": 32,
                 "votes": {
                     "050A032": 0,
-                    "050A033": 0,
-                    "050A034": 0,
+                    "050A033": 18,
+                    "050A034": 21,
                     "050A035": 0
                 }
             }, {
@@ -193,8 +193,8 @@
                 "listNumber": 35,
                 "votes": {
                     "050A032": 0,
-                    "050A033": 0,
-                    "050A034": 0,
+                    "050A033": 27,
+                    "050A034": 11,
                     "050A035": 0
                 }
             }, {
@@ -203,8 +203,8 @@
                 "listNumber": 29,
                 "votes": {
                     "050A032": 0,
-                    "050A033": 0,
-                    "050A034": 0,
+                    "050A033": 6,
+                    "050A034": 3,
                     "050A035": 0
                 }
             }]
