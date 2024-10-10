@@ -3,19 +3,19 @@
             "currentVoters": 44615,
             "mayorCandidates": [{
                 "name": "Zijad Lugavić",
-                "votes": 29558,
+                "votes": 30992,
                 "winner": true
             }, {
                 "name": "Zoran Blagojević",
-                "votes": 7710,
+                "votes": 8233,
                 "winner": false
             }, {
                 "name": "Derviš Čičko",
-                "votes": 1583,
+                "votes": 1648,
                 "winner": false
             }, {
                 "name": "Tihomir Mihajlović",
-                "votes": 231,
+                "votes": 241,
                 "winner": false
             }],
             "councilParties": [{
@@ -24,12 +24,12 @@
                 "candidates": [{
                     "name": "AZRA FEUKIĆ",
                     "listNumber": 4,
-                    "votes": 357,
+                    "votes": 497,
                     "winner": false
                 }, {
                     "name": "ĆAZIM MUŠANOVIĆ",
                     "listNumber": 7,
-                    "votes": 301,
+                    "votes": 372,
                     "winner": false
                 }]
             }, {
@@ -38,7 +38,7 @@
                 "candidates": [{
                     "name": "MUHAREM MUSLIĆ",
                     "listNumber": 20,
-                    "votes": 140,
+                    "votes": 182,
                     "winner": false
                 }]
             }, {
@@ -47,27 +47,27 @@
                 "candidates": [{
                     "name": "MENSUR ALIĆ",
                     "listNumber": 1,
-                    "votes": 906,
+                    "votes": 1.230,
                     "winner": false
                 }, {
                     "name": "JASMINA MUSTAČEVIĆ",
                     "listNumber": 8,
-                    "votes": 85,
+                    "votes": 144,
                     "winner": false
                 }, {
                     "name": "SAMRA ĆORHODŽIĆ",
                     "listNumber": 19,
-                    "votes": 50,
+                    "votes": 75,
                     "winner": false
                 }, {
                     "name": "MAIDA MEHMEDOVIĆ",
                     "listNumber": 32,
-                    "votes": 61,
+                    "votes": 92,
                     "winner": false
                 }, {
                     "name": "MERISA KUŠLJUGIĆ",
                     "listNumber": 35,
-                    "votes": 64,
+                    "votes": 84,
                     "winner": false
                 }]
             }, {
@@ -76,18 +76,18 @@
                 "candidates": [{
                     "name": "HUSEJN KARIĆ",
                     "listNumber": 29,
-                    "votes": 33,
+                    "votes": 49,
                     "winner": false
                 }]
             }],
             "gornjaTuzlaVoters": {
-                "maxVoters": 2200,
-                "currentVoters": 1110
+                "maxVoters": 2966,
+                "currentVoters": 1310
             },
             "gornjaTuzlaResults": [{
                 "name": "Zijad Lugavić",
                 "votes": {
-                    "050A032": 0,
+                    "050A032": 105,
                     "050A033": 221,
                     "050A034": 240,
                     "050A035": 250
@@ -95,7 +95,7 @@
             }, {
                 "name": "Zoran Blagojević",
                 "votes": {
-                    "050A032": 0,
+                    "050A032": 15,
                     "050A033": 48,
                     "050A034": 85,
                     "050A035": 40
@@ -103,7 +103,7 @@
             }, {
                 "name": "Derviš Čičko",
                 "votes": {
-                    "050A032": 0,
+                    "050A032": 4,
                     "050A033": 4,
                     "050A034": 20,
                     "050A035": 15
@@ -125,7 +125,7 @@
                     "050A032": 13,
                     "050A033": 69,
                     "050A034": 62,
-                    "050A035": 0
+                    "050A035": 54
                 }
             }, {
                 "name": "ĆAZIM MUŠANOVIĆ",
@@ -135,7 +135,7 @@
                     "050A032": 6,
                     "050A033": 30,
                     "050A034": 54,
-                    "050A035": 0
+                    "050A035": 28
                 }
             }, {
                 "name": "MUHAREM MUSLIĆ",
@@ -145,7 +145,7 @@
                     "050A032": 15,
                     "050A033": 22,
                     "050A034": 41,
-                    "050A035": 0
+                    "050A035": 34
                 }
             }, {
                 "name": "MENSUR ALIĆ",
@@ -155,7 +155,7 @@
                     "050A032": 34,
                     "050A033": 99,
                     "050A034": 90,
-                    "050A035": 0
+                    "050A035": 104
                 }
             }, {
                 "name": "JASMINA MUSTAČEVIĆ",
@@ -165,7 +165,7 @@
                     "050A032": 6,
                     "050A033": 34,
                     "050A034": 15,
-                    "050A035": 0
+                    "050A035": 42
                 }
             }, {
                 "name": "SAMRA ĆORHODŽIĆ",
@@ -175,7 +175,7 @@
                     "050A032": 8,
                     "050A033": 11,
                     "050A034": 9,
-                    "050A035": 0
+                    "050A035": 21
                 }
             }, {
                 "name": "MAIDA MEHMEDOVIĆ",
@@ -185,7 +185,7 @@
                     "050A032": 9,
                     "050A033": 18,
                     "050A034": 21,
-                    "050A035": 0
+                    "050A035": 25
                 }
             }, {
                 "name": "MERISA KUŠLJUGIĆ",
@@ -195,7 +195,7 @@
                     "050A032": 7,
                     "050A033": 27,
                     "050A034": 11,
-                    "050A035": 0
+                    "050A035": 17
                 }
             }, {
                 "name": "HUSEJN KARIĆ",
@@ -205,7 +205,7 @@
                     "050A032": 3,
                     "050A033": 6,
                     "050A034": 3,
-                    "050A035": 0
+                    "050A035": 11
                 }
             }]
         }
